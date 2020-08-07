@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "arthie.vscode-tailwindcssinjs",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind",
+    "jpoissonnier.vscode-styled-components"
+  ],
+  "unwantedRecommendations": []
+}
